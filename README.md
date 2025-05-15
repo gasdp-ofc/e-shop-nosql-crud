@@ -118,17 +118,6 @@ Este projeto pode ser adaptado para outros bancos NoSQL como **Clickhouse** ou f
 
 Fique à vontade para customizar e melhorar para seu portfólio profissional!
 
----
-
-## 📽️ Vídeo Demonstrativo
-
-Sugestão para o vídeo de apresentação:
-
-1. Mostrar a estrutura do projeto
-2. Executar `docker-compose up` e exibir logs
-3. Acessar o app no navegador
-4. Inserir, atualizar e excluir um cliente
-5. Mostrar a escala dos dados com scroll na tabela
 
 ---
 
