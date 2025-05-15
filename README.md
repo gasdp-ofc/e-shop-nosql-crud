@@ -132,4 +132,4 @@ Sugestão para o vídeo de apresentação:
 
 ---
 
-**Desenvolvido por Guilherme | Projeto E-Shop Brasil**
+**Desenvolvido por Adriano | Projeto E-Shop Brasil**
