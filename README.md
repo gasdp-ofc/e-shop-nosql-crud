@@ -121,4 +121,4 @@ Fique à vontade para customizar e melhorar para seu portfólio profissional!
 
 ---
 
-**Desenvolvido por Adriano | Projeto E-Shop Brasil**
+**Desenvolvido por Guilherme | Projeto E-Shop Brasil**
